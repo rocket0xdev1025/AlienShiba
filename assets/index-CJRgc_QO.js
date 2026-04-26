@@ -30085,7 +30085,7 @@ function _3() {
               className: "hover:text-white hover:glow-green transition-all",
               children: "Abduct Now"
             }), S.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x146b4bD62Fe79F05BB4e2e593A2809429324fD7b",
               className: "bg-neon-green text-black px-8 py-3 rounded-full font-black hover:bg-white hover:scale-105 active:scale-95 transition-all shadow-[0_0_20px_rgba(255,164,11,0.5)] uppercase italic tracking-tighter",
               children: "BUY $SHIBA"
             })]
@@ -30320,7 +30320,7 @@ function _3() {
           }), S.jsxs("div", {
             className: "grid grid-cols-2 md:flex md:flex-row items-center justify-center gap-2 md:gap-6",
             children: [S.jsxs("a", {
-              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+              href: "https://dexscreener.com/ethereum/0x146b4bD62Fe79F05BB4e2e593A2809429324fD7b",
               className: "bg-neon-green text-black text-xs md:text-2xl px-4 py-4 md:px-12 md:py-6 rounded-full font-black flex items-center justify-center gap-2 md:gap-4 hover:bg-white hover:scale-110 active:scale-95 transition-all shadow-[0_0_50px_rgba(255,164,11,0.6)] group uppercase italic tracking-tighter",
               children: [S.jsx("span", {
                 className: "hidden sm:inline",
@@ -31198,7 +31198,7 @@ function _3() {
                   })
                 }),
                 S.jsx("a", {
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x146b4bD62Fe79F05BB4e2e593A2809429324fD7b",
                   className: "w-20 h-20 glass-card rounded-[2rem] flex items-center justify-center hover:bg-neon-green hover:text-black hover:scale-110 hover:-rotate-6 transition-all duration-300",
                   children: S.jsx("img", {
                     src: "/dextools-2.svg",
