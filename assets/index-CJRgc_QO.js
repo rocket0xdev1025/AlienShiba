@@ -31184,14 +31184,14 @@ function _3() {
               className: "flex flex-wrap gap-8",
               children: [
                 S.jsx("a", {
-                  href: "https://t.me/AlienShibaEth",
+                  href: "https://x.com/AlienShibaEth",
                   className: "w-20 h-20 glass-card rounded-[2rem] flex items-center justify-center hover:bg-neon-green hover:text-black hover:scale-110 hover:-rotate-6 transition-all duration-300",
                   children: S.jsx(GN, {
                     className: "w-10 h-10"
                   })
                 }),
                 S.jsx("a", {
-                  href: "https://x.com/AlienShibaEth",
+                  href: "https://t.me/AlienShibaEth",
                   className: "w-20 h-20 glass-card rounded-[2rem] flex items-center justify-center hover:bg-neon-green hover:text-black hover:scale-110 hover:-rotate-6 transition-all duration-300",
                   children: S.jsx(hE, {
                     className: "w-10 h-10"
